@@ -1,0 +1,165 @@
+variable,table,label
+B01003_001E  , TOTAL POPULATION               ,                                        
+B01001_002E  , SEX BY AGE                     , Male                                  
+B01001_026E  , SEX BY AGE                     , Female                                
+B01001_004E  , SEX BY AGE                     , Male 5 to 9 years                  
+B01001_005E  , SEX BY AGE                     , Male 10 to 14 years                
+B01001_006E  , SEX BY AGE                     , Male 15 to 17 years                
+B01001_007E  , SEX BY AGE                     , Male 18 and 19 years               
+B01001_008E  , SEX BY AGE                     , Male 20 years                      
+B01001_009E  , SEX BY AGE                     , Male 21 years                      
+B01001_010E  , SEX BY AGE                     , Male 22 to 24 years                
+B01001_011E  , SEX BY AGE                     , Male 25 to 29 years                
+B01001_012E  , SEX BY AGE                     , Male 30 to 34 years                
+B01001_013E  , SEX BY AGE                     , Male 35 to 39 years                
+B01001_014E  , SEX BY AGE                     , Male 40 to 44 years                
+B01001_015E  , SEX BY AGE                     , Male 45 to 49 years                
+B01001_016E  , SEX BY AGE                     , Male 50 to 54 years                
+B01001_017E  , SEX BY AGE                     , Male 55 to 59 years                
+B01001_018E  , SEX BY AGE                     , Male 60 and 61 years               
+B01001_019E  , SEX BY AGE                     , Male 62 to 64 years                
+B01001_020E  , SEX BY AGE                     , Male 65 and 66 years               
+B01001_021E  , SEX BY AGE                     , Male 67 to 69 years                
+B01001_022E  , SEX BY AGE                     , Male 70 to 74 years                
+B01001_023E  , SEX BY AGE                     , Male 75 to 79 years                
+B01001_024E  , SEX BY AGE                     , Male 80 to 84 years                
+B01001_025E  , SEX BY AGE                     , Male 85 years and over             
+B01001_028E  , SEX BY AGE                     , Female 5 to 9 years                
+B01001_029E  , SEX BY AGE                     , Female 10 to 14 years              
+B01001_030E  , SEX BY AGE                     , Female 15 to 17 years              
+B01001_031E  , SEX BY AGE                     , Female 18 and 19 years             
+B01001_032E  , SEX BY AGE                     , Female 20 years                    
+B01001_033E  , SEX BY AGE                     , Female 21 years                    
+B01001_034E  , SEX BY AGE                     , Female 22 to 24 years              
+B01001_035E  , SEX BY AGE                     , Female 25 to 29 years              
+B01001_036E  , SEX BY AGE                     , Female 30 to 34 years              
+B01001_037E  , SEX BY AGE                     , Female 35 to 39 years              
+B01001_038E  , SEX BY AGE                     , Female 40 to 44 years              
+B01001_039E  , SEX BY AGE                     , Female 45 to 49 years              
+B01001_040E  , SEX BY AGE                     , Female 50 to 54 years              
+B01001_041E  , SEX BY AGE                     , Female 55 to 59 years              
+B01001_042E  , SEX BY AGE                     , Female 60 and 61 years             
+B01001_043E  , SEX BY AGE                     , Female 62 to 64 years              
+B01001_044E  , SEX BY AGE                     , Female 65 and 66 years             
+B01001_045E  , SEX BY AGE                     , Female 67 to 69 years              
+B01001_046E  , SEX BY AGE                     , Female 70 to 74 years              
+B01001_047E  , SEX BY AGE                     , Female 75 to 79 years              
+B01001_048E  , SEX BY AGE                     , Female 80 to 84 years              
+B01001_049E  , SEX BY AGE                     , Female 85 years and over           
+B02001_002E  , RACE                           , White alone                           
+B02001_003E  , RACE                           , Black or African American alone       
+B02001_004E  , RACE                           , American Indian and Alaska Native a   
+B02001_005E  , RACE                           , Asian alone                           
+B02001_006E  , RACE                           , Native Hawaiian and Other Pacific I   
+B02001_007E  , RACE                           , Some other race alone                 
+B02001_008E  , RACE                           , Two or more races                     
+B03003_003E  , HISPANIC OR LATINO ORIGIN      , Hispanic or Latino                    
+B03003_002E  , HISPANIC OR LATINO ORIGIN      , Not Hispanic or Latino
+B05002_002E  , PLACE OF BIRTH BY NATIVITY AND , Native                                
+B05002_003E  , PLACE OF BIRTH BY NATIVITY AND , Native Born in state of residenc   
+B05002_004E  , PLACE OF BIRTH BY NATIVITY AND , Native Born in other state in th   
+B05002_009E  , PLACE OF BIRTH BY NATIVITY AND , Native Born outside the United S   
+B05002_013E  , PLACE OF BIRTH BY NATIVITY AND , Foreign born          
+B21001_002E  , SEX BY AGE BY VETERAN STATUS F , Veteran                               
+B21001_003E  , SEX BY AGE BY VETERAN STATUS F , Nonveteran                            
+B07001_017E  , GEOGRAPHICAL MOBILITY IN THE P , Same house 1 year ago                 
+B07001_033E  , GEOGRAPHICAL MOBILITY IN THE P , Moved within same county              
+B07001_049E  , GEOGRAPHICAL MOBILITY IN THE P , Moved from different county within    
+B07001_065E  , GEOGRAPHICAL MOBILITY IN THE P , Moved from different state            
+B07001_081E  , GEOGRAPHICAL MOBILITY IN THE P , Moved from abroad                     
+B23025_001E  , EMPLOYMENT STATUS FOR THE POPU , Population 16 and over                                       
+B23025_002E  , EMPLOYMENT STATUS FOR THE POPU , In labor force                        
+B23025_003E  , EMPLOYMENT STATUS FOR THE POPU , In labor force Civilian labor fo   
+B23025_004E  , EMPLOYMENT STATUS FOR THE POPU , In labor force Civilian labor   
+B23025_005E  , EMPLOYMENT STATUS FOR THE POPU , In labor force Civilian labor   
+B23025_006E  , EMPLOYMENT STATUS FOR THE POPU , In labor force Armed Forces        
+B23025_007E  , EMPLOYMENT STATUS FOR THE POPU , Not in labor force  
+B08101_001E  , MEANS OF TRANSPORTATION TO WOR , Workers 16 and over                                         
+B08101_025E  , MEANS OF TRANSPORTATION TO WOR , Public transportation (excluding taxis)   
+B08101_033E  , MEANS OF TRANSPORTATION TO WOR , Walked                                
+B08101_049E  , MEANS OF TRANSPORTATION TO WOR , Worked at home                        
+B24020_001E  , SEX BY OCCUPATION FOR THE FULL ," Full-time, year-round civilian employed population 16 years and over"
+B24020_112E  , SEX BY OCCUPATION FOR THE FULL , Male Natural resources  
+B24020_131E  , SEX BY OCCUPATION FOR THE FULL ," Male Production, transportation, and material moving "
+B24020_263E  , SEX BY OCCUPATION FOR THE FULL , Female Natural resources   
+B24020_282E  , SEX BY OCCUPATION FOR THE FULL ," Female Production, transportation, and material moving   "
+B25001_001E  , HOUSING UNITS                  ,                                          
+B25002_002E  , OCCUPANCY STATUS               , Occupied                              
+B25002_003E  , OCCUPANCY STATUS               , Vacant                                
+B25003_001E  , TENURE                         , Occupied Housing units                                   
+B25003_002E  , TENURE                         , Owner occupied                        
+B25003_003E  , TENURE                         , Renter occupied                       
+B25075_001E  , VALUE                          , owner-occupied housing units                                      
+B25075_002E  , VALUE                          ," Less than $10,000                     "
+B25075_003E  , VALUE                          ," $10,000 to $14,999                    "
+B25075_004E  , VALUE                          ," $15,000 to $19,999                    "
+B25075_005E  , VALUE                          ," $20,000 to $24,999                    "
+B25075_006E  , VALUE                          ," $25,000 to $29,999                    "
+B25075_007E  , VALUE                          ," $30,000 to $34,999                    "
+B25075_008E  , VALUE                          ," $35,000 to $39,999                    "
+B25075_009E  , VALUE                          ," $40,000 to $49,999                    "
+B25075_010E  , VALUE                          ," $50,000 to $59,999                    "
+B25075_011E  , VALUE                          ," $60,000 to $69,999                    "
+B25075_012E  , VALUE                          ," $70,000 to $79,999                    "
+B25075_013E  , VALUE                          ," $80,000 to $89,999                    "
+B25075_014E  , VALUE                          ," $90,000 to $99,999                    "
+B25075_015E  , VALUE                          ," $100,000 to $124,999                  "
+B25075_016E  , VALUE                          ," $125,000 to $149,999                  "
+B25075_017E  , VALUE                          ," $150,000 to $174,999                  "
+B25075_018E  , VALUE                          ," $175,000 to $199,999                  "
+B25075_019E  , VALUE                          ," $200,000 to $249,999                  "
+B25075_020E  , VALUE                          ," $250,000 to $299,999                  "
+B25075_021E  , VALUE                          ," $300,000 to $399,999                  "
+B25075_022E  , VALUE                          ," $400,000 to $499,999                  "
+B25075_023E  , VALUE                          ," $500,000 to $749,999                  "
+B25075_024E  , VALUE                          ," $750,000 to $999,999                  "
+B25075_025E  , VALUE                          ," $1,000,000 to $1,499,999              "
+B25027_001E  , MORTGAGE STATUS BY AGE OF HOUS , Owner-occupied housing units                                         
+B25027_002E  , MORTGAGE STATUS BY AGE OF HOUS , Housing units with a mortgage         
+B25027_010E  , MORTGAGE STATUS BY AGE OF HOUS , Housing units without a mortgage      
+B25088_001E  , MEDIAN SELECTED MONTHLY OWNER  , Median selected monthly owner costs (dollars)  
+B25063_001E  , GROSS RENT                     , renter-occupied housing units                                         
+B25064_001E  , MEDIAN GROSS RENT (DOLLARS)    , Median gross rent                              
+B19001_001E  , HOUSEHOLD INCOME IN THE PAST 1 , Total Households                                         
+B19001_002E  , HOUSEHOLD INCOME IN THE PAST 1 ," Less than $10,000                     "
+B19001_003E  , HOUSEHOLD INCOME IN THE PAST 1 ," $10,000 to $14,999                    "
+B19001_004E  , HOUSEHOLD INCOME IN THE PAST 1 ," $15,000 to $19,999                    "
+B19001_005E  , HOUSEHOLD INCOME IN THE PAST 1 ," $20,000 to $24,999                    "
+B19001_006E  , HOUSEHOLD INCOME IN THE PAST 1 ," $25,000 to $29,999                    "
+B19001_007E  , HOUSEHOLD INCOME IN THE PAST 1 ," $30,000 to $34,999                    "
+B19001_008E  , HOUSEHOLD INCOME IN THE PAST 1 ," $35,000 to $39,999                    "
+B19001_009E  , HOUSEHOLD INCOME IN THE PAST 1 ," $40,000 to $44,999                    "
+B19001_010E  , HOUSEHOLD INCOME IN THE PAST 1 ," $45,000 to $49,999                    "
+B19001_011E  , HOUSEHOLD INCOME IN THE PAST 1 ," $50,000 to $59,999                    "
+B19001_012E  , HOUSEHOLD INCOME IN THE PAST 1 ," $60,000 to $74,999                    "
+B19001_013E  , HOUSEHOLD INCOME IN THE PAST 1 ," $75,000 to $99,999                    "
+B19001_014E  , HOUSEHOLD INCOME IN THE PAST 1 ," $100,000 to $124,999                  "
+B19001_015E  , HOUSEHOLD INCOME IN THE PAST 1 ," $125,000 to $149,999                  "
+B19001_016E  , HOUSEHOLD INCOME IN THE PAST 1 ," $150,000 to $199,999                  "
+B19001_017E  , HOUSEHOLD INCOME IN THE PAST 1 ," $200,000 or more                      "
+B19013_001E  , MEDIAN HOUSEHOLD INCOME IN THE , Median household income in the past 12 months   
+B19081_001E  , MEAN HOUSEHOLD INCOME OF QUINT , Quintile Means Lowest Quintile              
+B19081_002E  , MEAN HOUSEHOLD INCOME OF QUINT , Quintile Means Second Quintile              
+B19081_003E  , MEAN HOUSEHOLD INCOME OF QUINT , Quintile Means Third Quintile               
+B19081_004E  , MEAN HOUSEHOLD INCOME OF QUINT , Quintile Means Fourth Quintile              
+B19081_005E  , MEAN HOUSEHOLD INCOME OF QUINT , Quintile Means Highest Quintile             
+B19081_006E  , MEAN HOUSEHOLD INCOME OF QUINT , Top 5 Percent                                 
+B17001_002E  , POVERTY STATUS IN THE PAST 12  , Income in the past 12 months below    
+B14001_002E  , SCHOOL ENROLLMENT BY LEVEL OF  , Enrolled in school                    
+B14001_008E  , SCHOOL ENROLLMENT BY LEVEL OF  ," Enrolled in school Enrolled in college, undergrad   "
+B14001_009E  , SCHOOL ENROLLMENT BY LEVEL OF  , Enrolled in school Graduate or professional school   
+B06009_001E  , PLACE OF BIRTH BY EDUCATIONAL  , population 25 and over                                          
+B06009_002E  , PLACE OF BIRTH BY EDUCATIONAL  , Less than high school graduate        
+B06009_003E  , PLACE OF BIRTH BY EDUCATIONAL  , High school graduate (includes equi   
+B06009_004E  , PLACE OF BIRTH BY EDUCATIONAL  , Some college or associate's degree    
+B06009_005E  , PLACE OF BIRTH BY EDUCATIONAL  , Bachelor's degree                     
+B06009_006E  , PLACE OF BIRTH BY EDUCATIONAL  , Graduate or professional degree      
+B15002_001E,SEX BY EDUCATIONAL ATTAINMENT,Population 25 and over
+B15002_015E,SEX BY EDUCATIONAL ATTAINMENT,Male Bachelor's degree
+B15002_016E,SEX BY EDUCATIONAL ATTAINMENT,Male Master's degree
+B15002_017E,SEX BY EDUCATIONAL ATTAINMENT,Male Professional school degree
+B15002_018E,SEX BY EDUCATIONAL ATTAINMENT,Male Doctorate degree
+B15002_032E,SEX BY EDUCATIONAL ATTAINMENT,Female Bachelor's degree
+B15002_033E,SEX BY EDUCATIONAL ATTAINMENT,Female Master's degree
+B15002_034E,SEX BY EDUCATIONAL ATTAINMENT,Female Professional school degree
+B15002_035E,SEX BY EDUCATIONAL ATTAINMENT,Female Doctorate degree
